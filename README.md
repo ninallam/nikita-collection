@@ -10,8 +10,7 @@
 
 - Microsoft JDConf 2024 (Asia Pacific) - [Watch](https://www.youtube.com/watch?v=m85dv53dsa4&t=10783s)
 
-- Microsoft Ignite 2023 - Optimize app reliability with automated Load and Chaos testing, Q&A
- - [Watch](https://ignite.microsoft.com/en-US/sessions/72ef2980-9b89-4c4e-8074-bf6dda7f2a80)
+- Microsoft Ignite 2023 - Optimize app reliability with automated Load and Chaos testing - [Watch](https://ignite.microsoft.com/en-US/sessions/72ef2980-9b89-4c4e-8074-bf6dda7f2a80)
 
 - Microsoft Build 2023 - Deep dive on Azure Load Testing in CI/CD - [Watch](https://www.youtube.com/watch?v=4jop6SMGnQs)
 
