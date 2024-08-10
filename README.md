@@ -14,8 +14,7 @@
 
 - Microsoft Build 2023 - Deep dive on Azure Load Testing in CI/CD - [Watch](https://www.youtube.com/watch?v=4jop6SMGnQs)
 
-- Microsoft Developers .NET Day 2023 - Identifying Performance Bottlenecks with Azure Load Testing
- - [Watch](https://youtu.be/1KBptrzkWVw?si=7CYfF4QdScgEvAc5)
+- Microsoft Developers .NET Day 2023 - Identifying Performance Bottlenecks with Azure Load Testing - [Watch](https://youtu.be/1KBptrzkWVw?si=7CYfF4QdScgEvAc5)
 
 ## DevOps Labs
 
