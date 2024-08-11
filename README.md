@@ -35,3 +35,12 @@
 ## Blog posts
 
 - Microsoft Tech Community profile - [Link](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1282451#profile)
+
+- Better Debuggability with Enhanced Logging in Azure Load Testing - [Read](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/better-debuggability-with-enhanced-logging-in-azure-load-testing/ba-p/4160393)
+
+- Optimize Azure Functions for Performance and Costs using Azure Load Testing - [Read](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/optimize-azure-functions-for-performance-and-costs-using-azure/ba-p/4138467)
+
+- Run Azure Load Testing on Azure App Service web apps - [Read](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/run-azure-load-testing-on-azure-app-service-web-apps/ba-p/4117175)
+
+- Load Testing Azure Service Bus - [Read](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/load-testing-azure-service-bus/ba-p/4070521)
+
