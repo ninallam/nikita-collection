@@ -6,7 +6,7 @@
 
 - What's new in Azure Load Testing? - [Watch](https://www.youtube.com/watch?v=oKSFrkSkcZo)
 
-## Confereneces
+## Conferences
 
 - Microsoft JDConf 2024 (Asia Pacific) - [Watch](https://www.youtube.com/watch?v=m85dv53dsa4&t=10783s)
 
