@@ -4,9 +4,9 @@
 
 - Advancing application reliability with performance testing in Azure - By Mark Russinovich, Chief Technology Officer and Technical Fellow, Microsoft Azure - [Read](https://azure.microsoft.com/blog/advancing-application-reliability-with-performance-testing-in-azure/)
 
-- What's new in Azure Load Testing? - [Watch](https://www.youtube.com/watch?v=oKSFrkSkcZo)
-
 ## Conferences
+
+- Microsoft Ignite 2024 - [Watch](https://www.youtube.com/watch?v=m85dv53dsa4&t=10783s)
 
 - Microsoft JDConf 2024 (Asia Pacific) - [Watch](https://www.youtube.com/watch?v=m85dv53dsa4&t=10783s)
 
