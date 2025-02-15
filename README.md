@@ -2,11 +2,13 @@
 
 ## Featured
 
+- Microsoft Ignite 2024 - Enhance app quality and reliability with Microsoft testing tools - [Watch](https://www.youtube.com/watch?v=b5VXMhJI2XU)
+
 - Advancing application reliability with performance testing in Azure - By Mark Russinovich, Chief Technology Officer and Technical Fellow, Microsoft Azure - [Read](https://azure.microsoft.com/blog/advancing-application-reliability-with-performance-testing-in-azure/)
 
 ## Conferences
 
-- Microsoft Ignite 2024 - [Watch](https://www.youtube.com/watch?v=m85dv53dsa4&t=10783s)
+- Microsoft Ignite 2024 - Enhance app quality and reliability with Microsoft testing tools - [Watch](https://www.youtube.com/watch?v=b5VXMhJI2XU)
 
 - Microsoft JDConf 2024 (Asia Pacific) - [Watch](https://www.youtube.com/watch?v=m85dv53dsa4&t=10783s)
 
